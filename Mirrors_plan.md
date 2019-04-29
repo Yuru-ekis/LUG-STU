@@ -11,7 +11,7 @@
 根据调查，校内使用量最大的 Linux 发行版为 Ubuntu 和 Raspbian。因此前期计划提供这两款发行版的镜像。后期再慢慢增加镜像的数量。
 ## 实施计划
 >参考  
-<https://fangpeishi.com/build_opensource_mirror.html> 
+<https://fangpeishi.com/build_opensource_mirror.html>  
 <http://weyo.me/pages/techs/how-to-make-a-mirror-site/>  
 
 * 服务器：取决于网络中心能提供怎样的服务器
